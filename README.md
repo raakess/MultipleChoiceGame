@@ -1,2 +1,2 @@
 # MultipleChoiceGame
-A simple code for my debut in github.
+A simple code to start of the git. 
